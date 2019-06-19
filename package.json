@@ -1,0 +1,20 @@
+{
+  "name": "fsd_project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim99919/fsd_project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tim99919/fsd_project1/issues"
+  },
+  "homepage": "https://github.com/tim99919/fsd_project1#readme"
+}
